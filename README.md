@@ -4,7 +4,7 @@ I'm a Product Manager and Builder just having fun building
 
 What I'm Building Now:
 
-Circles: An Islamic social accountability app for Muslims ages 15-35. It’s an "Islamic BeReal" where small circles of friends keep each other consistent on habits like Salah and Quran through shared daily moments.
+Circles: Think of Islamic BeReal, that's all I can say for now tho.. 
 
 Veil: A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series.
 
