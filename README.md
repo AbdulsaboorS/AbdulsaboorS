@@ -4,7 +4,7 @@ I'm a Product Manager and Builder just having fun building
 
 What I'm Building Now:
 
-Circles: Think of Islamic BeReal, that's all I can say for now tho.. 
+Miraj: Think of Islamic BeReal, that's all I can say for now tho.. 
 
 Veil: A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series.
 
