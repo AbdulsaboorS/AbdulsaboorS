@@ -8,7 +8,7 @@ Miraj: Think of Islamic BeReal, that's all I can say for now tho..
 
 Veil: A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series.
 
-My Focus: I am currently deep-diving into mobile app development and building out the native Swift version of Circles to get it ready for a real-world launch.
+My Focus: I am currently deep-diving into mobile app development and building out the native Swift version of Miraj to get it ready for a real-world launch.
 
 Previous work where I shipped a few smaller projects to get my feet wet: 
 
