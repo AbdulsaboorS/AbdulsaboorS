@@ -16,9 +16,11 @@ Previous work where I shipped a few smaller projects to get my feet wet:
 
 [Interactive 3D portfolio](https://abdulsaboors.github.io/Portfolio/): Personal Porfolio highlighting all my experiences, projects, and activities through a 3D click through experience
 
-Fantasy sports bots for basketball: Saved me from my last place punishment by winning me some games :D
+[Fantasy sports bots for basketball](https://fantasybasketballbot.vercel.app/): Saved me from my last place punishment by winning me some games :D
 
 Socials:
 
 [LinkedIn](https://www.linkedin.com/in/shaikhabdulsaboor/?skipRedirect=true)
+
+[Twitter](https://x.com/abdulsaboooor) 
 
