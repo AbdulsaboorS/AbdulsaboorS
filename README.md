@@ -8,7 +8,7 @@ Programmable-Video: An agent-native product video studio built on Cloudflare
 
 Docs-Trials: Give your docs to a coding agent and have them test out if its agent ready
 
-Previous work where I shipped a few smaller projects to get my feet wet: 
+Previous work where I've started a few smaller projects to get my feet wet: 
 
 [Veil](https://veil.lat/): A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series. (MVP is built, need to ship as an extension)
 
