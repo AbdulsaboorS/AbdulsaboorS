@@ -1,6 +1,6 @@
 Hi, I'm Abdulsaboor 👋
 
-I'm a Product Manager and Builder just having fun building 
+I'm a Product Manager Intern @ Cloudflare and also aspiring Builder, vibe coding my way thru prod traffic
 
 What I'm Building Now:
 
