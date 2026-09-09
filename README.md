@@ -10,7 +10,7 @@ What I'm Building Now:
 
 Previous work where I've started a few smaller projects to get my feet wet: 
 
-Taste-loop: A portable Agent Skill based on Anshu Chimala's [process for turning AI into a world-class designer](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world) and his open-source [Dream Loop](https://github.com/achimala/dream-loop) skill.
+[Taste-loop](https://github.com/AbdulsaboorS/taste-loop): A portable Agent Skill based on Anshu Chimala's [process for turning AI into a world-class designer](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world) and his open-source [Dream Loop](https://github.com/achimala/dream-loop) skill.
 
 [Veil](https://veil.lat/): A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series. (MVP is built, need to ship as an extension)
 
