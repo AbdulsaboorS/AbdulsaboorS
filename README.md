@@ -4,11 +4,13 @@ I'm a Product Manager Intern @ Cloudflare and also aspiring Builder, vibe coding
 
 What I'm Building Now:
 
-Programmable-Video: An agent-native product video studio built on Cloudflare
+[Programmable-Video](https://github.com/AbdulsaboorS/programmable-video): An agent-native product video studio built on Cloudflare
 
-Docs-Trials: Give your docs to a coding agent and have them test out if its agent ready
+[Docs-Trials](https://github.com/AbdulsaboorS/docs-trials): Give your docs to a coding agent and have them test out if its agent ready
 
 Previous work where I've started a few smaller projects to get my feet wet: 
+
+Taste-loop: A portable Agent Skill based on Anshu Chimala's [process for turning AI into a world-class designer](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world) and his open-source [Dream Loop](https://github.com/achimala/dream-loop) skill.
 
 [Veil](https://veil.lat/): A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series. (MVP is built, need to ship as an extension)
 
