@@ -1,6 +1,6 @@
 Hi, I'm Abdulsaboor 👋
 
-I'm a Product Manager Intern @ Cloudflare and also aspiring Builder, vibe coding my way thru prod traffic
+I'm a Product Manager @ Expedia Group and also aspiring Builder. Prev @Cloudflare and HubSpot
 
 What I'm Building Now:
 
