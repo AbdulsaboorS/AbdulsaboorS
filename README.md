@@ -6,9 +6,10 @@ What I'm Building Now:
 
 [Docs-Trials](https://github.com/AbdulsaboorS/docs-trials): Give your docs to a coding agent and have them test out if its agent ready
 
+[Miraj](https://miraj.fyi/): BeReal with an islamic twist, where muslims can capture their intentions daily
+
 [Veil](https://veil.lat/): A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series. (MVP is built, need to ship as an extension)
 
-[Miraj](https://miraj.fyi/): BeReal with an islamic twist, where muslims can capture their intentions daily (MVP is built, need to ship to app store soon)
 
 Previous work: 
 
