@@ -16,7 +16,7 @@ Previous work:
 
 [Programmable-Video](https://github.com/AbdulsaboorS/programmable-video): An agent-native product video studio built on Cloudflare
 
-[Interactive 3D portfolio](https://abdulsaboors.github.io/Portfolio/): Personal Porfolio highlighting all my experiences, projects, and activities through a 3D click through experience
+[Interactive 3D portfolio](https://abdulsaboorshaikh.com/): Personal Porfolio highlighting all my experiences, projects, and activities through a 3D click through experience
 
 [Fantasy sports bots for basketball](https://fantasybasketballbot.vercel.app/): Saved me from my last place punishment by winning me some games :D
 
