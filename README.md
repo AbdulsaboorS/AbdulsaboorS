@@ -4,6 +4,8 @@ I'm a Product Manager @ Expedia Group and also aspiring Builder. Prev @Cloudflar
 
 What I'm Building Now:
 
+[Wist](https://github.com/AbdulsaboorS/wist): Hand off your coding agent workflow to a personal assistant (muse)
+
 [Docs-Trials](https://github.com/AbdulsaboorS/docs-trials): Give your docs to a coding agent and have them test out if its agent ready
 
 [Miraj](https://miraj.fyi/): BeReal with an islamic twist, where muslims can capture their intentions daily
