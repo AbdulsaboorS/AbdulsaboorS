@@ -10,12 +10,13 @@ What I'm Building Now:
 
 [Miraj](https://miraj.fyi/): BeReal with an islamic twist, where muslims can capture their intentions daily
 
-[Veil](https://veil.lat/): A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series. (MVP is built, need to ship as an extension)
 
 
 Previous work: 
 
 [Taste-loop](https://github.com/AbdulsaboorS/taste-loop): A portable Agent Skill based on Anshu Chimala's [process for turning AI into a world-class designer](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world) and his open-source [Dream Loop](https://github.com/achimala/dream-loop) skill.
+
+[Veil](https://veil.lat/): A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series
 
 [Programmable-Video](https://github.com/AbdulsaboorS/programmable-video): An agent-native product video studio built on Cloudflare
 
