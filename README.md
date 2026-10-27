@@ -15,6 +15,8 @@ Paused the build bc i want to focus on one thing at a time rn:
 
 Previous work: 
 
+[FairHouseAI](https://github.com/seapeppers/fairHouseAi): AI income reviews for affordable housing, with the proof for every finding. [(won 2nd place at a hackathon)](https://lnkd.in/p/gCqqizda)
+
 [Taste-loop](https://github.com/AbdulsaboorS/taste-loop): A portable Agent Skill based on Anshu Chimala's [process for turning AI into a world-class designer](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world) and his open-source [Dream Loop](https://github.com/achimala/dream-loop) skill.
 
 [Veil](https://veil.lat/): A browser extension designed to help anime fans avoid spoilers while they catch up on their favorite series
