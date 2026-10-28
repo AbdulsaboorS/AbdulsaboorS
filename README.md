@@ -1,4 +1,4 @@
-Hi, I'm Abdulsaboor 👋
+I'm Abdulsaboor
 
 I'm a Product Manager @ Expedia Group and also aspiring Builder. Prev @Cloudflare and HubSpot
 
