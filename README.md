@@ -6,16 +6,20 @@ What I'm Building Now:
 
 [Miraj](https://miraj.fyi/): BeReal with an islamic twist, where muslims can capture their intentions daily
 
+Recent Hackathon builds:
+
+[FairHouseAI](https://github.com/seapeppers/fairHouseAi): AI income reviews for affordable housing, with the proof for every finding. [(won 2nd place](https://lnkd.in/p/gCqqizda)
+
+[OneTrip](https://github.com/AmoghAtreya/Claude-Impact-Lab): Insuring only one trip for taskrabbit-like tasks: your customer sends photos from a text, and you get a one-screen brief: what’s wrong, why, and what to load in the truck
+
+
+Practicing building:
+
 Paused the build bc i want to focus on one thing at a time rn:
 
 [Wist](https://github.com/AbdulsaboorS/wist): Hand off your coding agent workflow to a personal assistant (muse)
 
 [Docs-Trials](https://github.com/AbdulsaboorS/docs-trials): Give your docs to a coding agent and have them test out if its agent ready
-
-
-Previous work: 
-
-[FairHouseAI](https://github.com/seapeppers/fairHouseAi): AI income reviews for affordable housing, with the proof for every finding. [(won 2nd place at a hackathon)](https://lnkd.in/p/gCqqizda)
 
 [Taste-loop](https://github.com/AbdulsaboorS/taste-loop): A portable Agent Skill based on Anshu Chimala's [process for turning AI into a world-class designer](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world) and his open-source [Dream Loop](https://github.com/achimala/dream-loop) skill.
 
