@@ -15,7 +15,6 @@ Recent Hackathon builds:
 
 Practicing building:
 
-Paused the build bc i want to focus on one thing at a time rn:
 
 [Wist](https://github.com/AbdulsaboorS/wist): Hand off your coding agent workflow to a personal assistant (muse)
 
